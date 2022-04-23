@@ -1,4 +1,4 @@
-# kotlin-math
+# Android Kotlin Easy Math
 
 [![kotlin-math](https://maven-badges.herokuapp.com/maven-central/dev.romainguy/kotlin-math/badge.svg?subject=kotlin-math)](https://maven-badges.herokuapp.com/maven-central/dev.romainguy/kotlin-math)
 
